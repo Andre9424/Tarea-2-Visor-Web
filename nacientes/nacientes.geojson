@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "nacientes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Este": 482549.83, "Norte": 1083343.33, "Decripcion": "Permanente" }, "geometry": { "type": "Point", "coordinates": [ -84.159077870577832, 9.79741555072899 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Este": 481477.35, "Norte": 1083842.88, "Decripcion": "Intermitente" }, "geometry": { "type": "Point", "coordinates": [ -84.168857028624032, 9.801927686375668 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Este": 482585.35, "Norte": 1084451.33, "Decripcion": "Permanente" }, "geometry": { "type": "Point", "coordinates": [ -84.158758897860821, 9.807434139531484 ] } }
+]
+}
